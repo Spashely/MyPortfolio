@@ -1,0 +1,35 @@
+nav {
+    position: fixed; 
+    top: 0; 
+    width: 100%;
+    background-color:#095699;
+    color:white;
+ }
+
+.nav-link{
+    color:white;
+}
+
+p{
+    color:white;
+    size:15px;
+}
+
+footer {
+    background-color:#e5e5e5;
+    position:fixed;
+    height: 50px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
+
+/* 
+#074377 dark blue
+#095699 dark blue
+#0D82E6 blue
+white
+black
+#F9F295 gold
+#E5E5E5 light gray */
